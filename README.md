@@ -1,18 +1,18 @@
-﻿# DevOps Assignment 2 ðŸ› ï¸
+# DevOps Assignment 2
 
-University DevOps coursework â€” Assignment 2: GitHub Actions CI/CD with a JavaScript/Node.js application.
+University DevOps coursework -- Assignment 2: GitHub Actions CI/CD with Node.js.
 
 ## Topics Covered
 
 - GitHub Actions workflow design
-- Automated unit & integration testing
+- Automated unit and integration testing
 - Docker multi-stage builds
 - Environment-based deployment (dev/staging/prod)
 
 ## Pipeline Flow
 
 ```
-Push â†’ Lint â†’ Test â†’ Build Docker Image â†’ Deploy
+Push -> Lint -> Test -> Build Docker Image -> Deploy
 ```
 
 ## Getting Started
@@ -27,4 +27,4 @@ npm start
 
 ## Course
 
-DevOps Engineering â€” [Atharva Desai](https://github.com/atharvez)
+DevOps Engineering -- Atharva Desai
